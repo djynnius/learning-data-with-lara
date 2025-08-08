@@ -1,0 +1,25 @@
+[
+    {
+        "sn": 1, 
+        "firstname": "sunday", 
+        "lastname": "ikpe", 
+        "age": 12, 
+        "sex": "male", 
+        "location": "Baltimore"
+    }, {
+        "sn": 2, 
+        "firstname": "monday", 
+        "lastname": "bright", 
+        "age": 15, 
+        "sex": "male", 
+        "location": "Lagos"
+    },{
+        "sn": 3, 
+        "firstname": "lara", 
+        "lastname": "memunat", 
+        "age": 18, 
+        "sex": "female", 
+        "location": "London"
+    }
+
+]
